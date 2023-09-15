@@ -65,7 +65,7 @@ You'll need to create a data integrator project so that data that the machine le
 
 ## Enable Finance insights capabilities
 
-When you've completed the configuration steps and set up demo data, you must turn on and set up each capability that you plan to use: customer payment predictions, cash flow forecasting, and budget proposals.
+When you've completed the configuration steps and set up demo data, you must set up each capability that you plan to use: customer payment predictions, cash flow forecasting, and budget proposals.
 
 ### Enable Customer payment predictions
 If you are using demo data to test customer payment predictions, you may have to import additional demo data to create your AI model successfully. 
